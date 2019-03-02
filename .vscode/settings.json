@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bevy_log.h": "c",
+        "bevy_dog.h": "c",
+        "stdarg.h": "c"
+    }
+}
